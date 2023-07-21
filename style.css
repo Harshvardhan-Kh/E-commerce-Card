@@ -71,3 +71,18 @@ body {
     background-color: #75e775;
     border-radius:  0px 0px 16px 16px;
 }
+
+.btn:hover{
+    display: block;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 64px;
+    height: 34px;
+    border: none;
+    color: #ffff;
+    background-color: #ad6b6b;
+    border-radius: 50px 50px 50px 50px;
+    transition: 0.7s;
+    cursor: pointer;
+}
